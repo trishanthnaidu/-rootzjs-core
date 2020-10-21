@@ -1,0 +1,27 @@
+{
+  "name": "@rootzjs/core",
+  "version": "1.0.0",
+  "description": "state management tool for react application",
+  "main": "core.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trishanthnaidu/-rootzjs-core.git"
+  },
+  "keywords": [
+    "rootz",
+    "rootzjs",
+    "store",
+    "state",
+    "state-management",
+    "react-state"
+  ],
+  "author": "trishanth naidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trishanthnaidu/-rootzjs-core/issues"
+  },
+  "homepage": "https://github.com/trishanthnaidu/-rootzjs-core#readme"
+}
