@@ -1,27 +1,28 @@
 {
-  "name": "@rootzjs/core",
+  "name": "@rootzjs/devtools",
   "version": "1.0.0",
-  "description": "state management tool for react application",
-  "main": "core.min.js",
+  "description": "devtools for Rootz Js",
+  "main": "core.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babelpack": "/usr/local/lib/node_modules/babel-cli/bin/babel.js lib -d temp --copy-files"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trishanthnaidu/-rootzjs-core.git"
+    "url": "git+https://github.com/trishanthnaidu/-rootzjs-devtools.git"
   },
   "keywords": [
+    "devtools",
     "rootz",
-    "rootzjs",
-    "store",
     "state",
+    "rootzjs",
     "state-management",
     "react-state"
   ],
   "author": "trishanth naidu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trishanthnaidu/-rootzjs-core/issues"
+    "url": "https://github.com/trishanthnaidu/-rootzjs-devtools/issues"
   },
-  "homepage": "https://github.com/trishanthnaidu/-rootzjs-core#readme"
+  "homepage": "https://github.com/trishanthnaidu/-rootzjs-devtools#readme"
 }
