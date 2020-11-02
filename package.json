@@ -1,6 +1,6 @@
 {
   "name": "@rootzjs/devtools",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "devtools for Rootz Js",
   "main": "core.js",
   "scripts": {
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/trishanthnaidu/-rootzjs-devtools/issues"
   },
-  "homepage": "https://github.com/trishanthnaidu/-rootzjs-devtools#readme"
+  "homepage": "https://github.com/trishanthnaidu/-rootzjs-devtools#readme",
+  "devDependencies": {
+    "@rootzjs/core": "^1.0.12"
+  }
 }
